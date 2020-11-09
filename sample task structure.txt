@@ -1,0 +1,19 @@
+Heading Paragraph
+Body Paragraphs
+Conclusion Paragraph
+--------------------------------------------------------------------------------
+Heading Paragraph
+  - Describe the issue
+  - Pivot to prompt
+  - Thesis sentence + essay structure sentence
+Body Paragraphs
+  - Topic sentence
+  - Example or hypotnese
+  - correlation of thesis with example
+Conclusion Paragraph 
+ (for strongly agree)
+  - give a counter point and then shut them up
+  - give conclusion of thesis sentence
+ (for mostly agree)
+  - say that the thesis is true is most of cases but some cases/people have different opinion on it
+  - give conclusion of thesis sentence
